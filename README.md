@@ -1,4 +1,4 @@
-# Face Detecton In Python Using OpenCV
+# Real Time Face Detecton In Python Using OpenCV
 
 # OpenCV
 
