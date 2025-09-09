@@ -62,6 +62,7 @@ The cascades of classifiers are formed from the features obtained by the gentle 
        
        # 7.Display the output Frame
 
-# Output :
+# Author :
+Akshit
 
-To see the output video, go to the media file and check the output video
+
